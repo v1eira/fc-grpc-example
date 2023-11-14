@@ -1,3 +1,5 @@
+This project uses [evans](https://github.com/ktr0731/evans).
+
 Generate protoc files running:
 ```bash
 protoc --go_out=. --go-grpc_out=. proto/course_category.proto
